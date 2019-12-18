@@ -1,8 +1,5 @@
 package by.belhard.j19.Lessons.Lesson2;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-import org.w3c.dom.ls.LSOutput;
-
 public class Homework1 {
 
     static byte b = 127;

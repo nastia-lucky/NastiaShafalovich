@@ -4,7 +4,7 @@ public class Address {
     String street;
     int housenumber;
 
-    Address(String steet, int housenumber) {
+    Address(String street, int housenumber) {
         this.street = street;
         this.housenumber = housenumber;
 

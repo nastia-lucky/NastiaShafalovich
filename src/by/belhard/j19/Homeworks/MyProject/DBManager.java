@@ -9,7 +9,7 @@ public class DBManager {
     private static final String USER = "root";
     private static final String PASS = "11111111";
 
-     private static Connection connection;
+    private static Connection connection;
 
     static {
         try {

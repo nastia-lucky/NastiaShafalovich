@@ -6,8 +6,12 @@ import java.io.InputStreamReader;
 
 public class IOService {
     private static final String MENU =
-            "1. add\n"
-                    + "2. read\n"
+            "1. add Pet\n"
+                    + "2. add host\n"
+                    + "3. get pets without vaccination\n"
+                    + "4. delete pet\n"
+                    + "5. get host Info\n"
+                    + "6. get pet Info\n"
                     + "e. exit\n";
 
     private final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

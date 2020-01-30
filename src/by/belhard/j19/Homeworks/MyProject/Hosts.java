@@ -4,7 +4,7 @@ public class Hosts {
     private int id;
     private String name;
     private String phone;
-    private  String address;
+    private String address;
 
     public Hosts(int id, String name, String phone, String address) {
         this.id = id;

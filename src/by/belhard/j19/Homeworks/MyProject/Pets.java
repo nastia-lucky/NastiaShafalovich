@@ -5,7 +5,7 @@ public class Pets {
     private int id;
     private String name;
     private String color;
-    private  int weight;
+    private int weight;
     private boolean rabbiesVaccination;
 
     public Pets(int id, String name, String color, int weight, boolean rabbiesVaccination) {
